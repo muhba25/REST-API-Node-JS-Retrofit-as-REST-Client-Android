@@ -2,8 +2,7 @@
 
 Library Import
 
-implementation "androidx.cardview:cardview:1.0.0"
-
+    implementation "androidx.cardview:cardview:1.0.0"
     implementation 'com.google.android.material:material:1.0.0'
     implementation 'androidx.navigation:navigation-fragment:2.1.0'
     implementation 'androidx.navigation:navigation-ui:2.1.0'
