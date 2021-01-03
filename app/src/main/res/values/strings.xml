@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Testing Api</string>
+    <string name="nama_lengkap"> nama lengkap </string>
+    <string name="nim">NIM </string>
+    <string name="alamat">Alamat</string>
+    <string name="tv_nama_mhs">nama_mhs</string>
+    <string name="iv_mhs">gambar</string>
+    <string name="read_file">This app needs access to your file storage so that it can read photos.</string>
+</resources>
